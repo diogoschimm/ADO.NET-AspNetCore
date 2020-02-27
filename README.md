@@ -1,6 +1,12 @@
 # ADO.NET-AspNetCore
 Projeto com exemplo de utilização de ADO.NET System.Data.SqlClient com ASP.NET Core 3.1
 
+## Nuget
+
+```
+<PackageReference Include="System.Data.SqlClient" Version="4.8.1" />
+```
+
 ## Script de Banco de Dados
 
 ```sql
