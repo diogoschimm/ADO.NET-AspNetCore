@@ -3,7 +3,7 @@ Projeto com exemplo de utilização de ADO.NET System.Data.SqlClient com ASP.NET
 
 ## Nuget
 
-```
+```xml
 <PackageReference Include="System.Data.SqlClient" Version="4.8.1" />
 ```
 
